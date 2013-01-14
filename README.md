@@ -24,3 +24,10 @@ to add this functionality to the launcher of your choice.
      - @clientC staff meeting .5
      - @team internal team meeting 1.5
 
+# References:
+
+[TaskPaper](http://www.hogbaysoftware.com/products/taskpaper "TaskPaper") Home
+Page.
+
+[taskpaper.vim](https://github.com/davidoc/taskpaper.vim "taskpaper.vim") vim
+plugin
