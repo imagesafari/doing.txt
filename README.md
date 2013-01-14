@@ -12,6 +12,9 @@ Alfred Extensions to track time in TaskPaper format
 alfred_doing.sh is the script this extension is based upon. It may be useful
 to add this functionality to the launcher of your choice.
 
+# Usage:
+
+    doing [@tags] [description] [hours]
 
 # Example Text File:
 
