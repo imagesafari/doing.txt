@@ -11,3 +11,13 @@ Alfred Extensions to track time in TaskPaper format
 
 alfred_doing.sh is the script this extension is based upon. It may be useful
 to add this functionality to the launcher of your choice.
+
+
+# Example Text File:
+
+    Monday 1/14/2013:
+     - @clientA worked on proposal 3
+     - @clientB weekly status phone call 1
+     - @clientC staff meeting .5
+     - @team internal team meeting 1.5
+
