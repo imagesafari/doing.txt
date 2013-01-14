@@ -19,9 +19,9 @@ to add this functionality to the launcher of your choice.
 # Example Text File:
 
     Monday 1/14/2013:
-     - @clientA worked on proposal 3
+     - @clientA @project1 worked on proposal 3
      - @clientB weekly status phone call 1
-     - @clientC staff meeting .5
+     - @clientC @meetings staff meeting .5
      - @team internal team meeting 1.5
 
 # References:
