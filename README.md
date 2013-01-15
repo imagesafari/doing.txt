@@ -1,7 +1,8 @@
 doing.txt
 =========
 
-Alfred Extensions to track time or log work in TaskPaper format
+Alfred Extensions to track time or log work in TaskPaper format (specially
+formatted plaintext)
 
 This requires the Alfred PowerPack to work.
 
