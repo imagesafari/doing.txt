@@ -3,6 +3,8 @@ doing.txt
 
 Alfred Extensions to track time or log work in TaskPaper format
 
+This requires the Alfred PowerPack to work.
+
 - Edit the script inside Alfred to change the path to your time tracking text
   file.
 
