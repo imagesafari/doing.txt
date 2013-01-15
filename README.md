@@ -1,7 +1,7 @@
 doing.txt
 =========
 
-Alfred Extensions to track time in TaskPaper format
+Alfred Extensions to track time or log work in TaskPaper format
 
 - Edit the script inside Alfred to change the path to your time tracking text
   file.
