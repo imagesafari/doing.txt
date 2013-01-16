@@ -29,6 +29,8 @@ to add this functionality to the launcher of your choice.
 
 # References:
 
+[Alfred](http://alfredapp.com "Alfred")
+
 [TaskPaper](http://www.hogbaysoftware.com/products/taskpaper "TaskPaper") Home
 Page.
 
